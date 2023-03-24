@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="addon">
-  <id>org.cockpit_project.starter_kit</id>
+  <id>com.github.loganator956.cockpit-wol</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <name>Starter Kit</name>
+  <name>Cockpit WOL</name>
   <summary>Scaffolding for a cockpit module</summary>
   <description>
     <p>
@@ -11,7 +11,7 @@
   </description>
   <extends>org.cockpit_project.cockpit</extends>
   <launchable type="cockpit-manifest">starter-kit</launchable>
-  <url type="homepage">https://github.com/cockpit-project/starter-kit</url>
-  <url type="bugtracker">https://github.com/cockpit-project/starter-kit/issues</url>
+  <url type="homepage">https://github.com/loganator956/cockpit-wol</url>
+  <url type="bugtracker">https://github.com/loganator956/cockpit-wol/issues</url>
   <update_contact>cockpit-devel_AT_lists.fedorahosted.org</update_contact>
 </component>
